@@ -1,5 +1,6 @@
-## Hi! My name is Minh 👋 
 ## Picking a location with React Native using a performance-oriented approach as what Grab, Uber, and others do
+
+### You can find my blog here: https://minh-le.vercel.app/blog/map
 
 ### Traditional concept in choosing a location:
 - Do you let them drag a map marker? It needs precision and causes fumbling
